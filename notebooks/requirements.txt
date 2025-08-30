@@ -1,0 +1,7 @@
+python-dotenv
+missingno
+dash
+dash_extensions
+pmdarima
+vizro
+gunicorn
